@@ -28,6 +28,5 @@ const generaArray = (lunghezza, max) => {
   
   const array1 = (generaArray(5, 4));
   
-  console.log(array1);
   console.log(sommaArray(array1));
   
