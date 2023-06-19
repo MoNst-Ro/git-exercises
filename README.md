@@ -1,3 +1,3 @@
 # Nunzio Matera
 
-# Esercizi
+# Esercizi (Copyright by Nunzio Matera)
